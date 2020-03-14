@@ -21,6 +21,7 @@ public class Game {
 				frameIndex += 2;
 			}
 		}
+		score++;
 		return score;
 	}
 
