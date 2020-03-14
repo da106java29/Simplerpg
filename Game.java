@@ -22,6 +22,9 @@ public class Game {
 			}
 		}
 		score++;
+		score--;
+		int score = 2;
+		int score3 = 0;
 		return score;
 	}
 
