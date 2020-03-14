@@ -21,10 +21,6 @@ public class Game {
 				frameIndex += 2;
 			}
 		}
-		score++;
-		score--;
-		int score = 2;
-		int score3 = 0;
 		return score;
 	}
 
